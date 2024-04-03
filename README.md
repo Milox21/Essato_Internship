@@ -10,7 +10,7 @@ Here i will list things to setup my app
 
 2. To setup connection to database, a connection string should be changed in DatabaseContext in method OnConfiguring
 
-3. I was using Microsoft SQL Management Studio, and sended it with the other files, if there were any problems, here is script of database:
+3. I was using Microsoft SQL Management Studio, here is script of my database:
    
 USE [PatientDatabase]
 GO
